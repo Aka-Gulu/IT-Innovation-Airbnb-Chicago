@@ -27,11 +27,11 @@ Our research targets the Chicago Airbnb market using the `"airbnb_Chicago"` data
    - Analyzed the impact of various property attributes on revenue.
 
 2. **Model Selection:**
-   - Utilized a Difference-in-Differences (DiD) approach to compare revenue changes over time between Superhosts and Non-Superhosts.
+   - Utilized a `Difference-in-Differences (DiD)` approach to compare revenue changes over time between Superhosts and Non-Superhosts.
 
 3. **Regression Analysis:**
-   - Built regression models to analyze the impact of Superhost status and other variables on revenue.
-   - Performed sensitivity tests to refine the model and ensure robustness.
+   - Built `regression models` to analyze the impact of Superhost status and other variables on revenue.
+   - Performed `sensitivity tests` to refine the model and ensure robustness.
 
 ## Key Findings
 - **Revenue Impact:** Achieving Superhost status does not significantly increase revenue.
