@@ -10,7 +10,7 @@ The primary objectives of this project are:
 - To provide insights for current and prospective Airbnb hosts to optimize their earnings.
 
 ## Data Source
-Our research targets the Chicago Airbnb market using the "airbnb_Chicago" dataset, which contains 120,217 rows and 112 columns of data. The key data columns used include:
+Our research targets the Chicago Airbnb market using the `"airbnb_Chicago"` dataset, which contains 120,217 rows and 112 columns of data. The key data columns used include:
 - Revenue
 - Superhost status
 - Number of bedrooms and bathrooms
