@@ -49,9 +49,4 @@ Our research targets the Chicago Airbnb market using the "airbnb_Chicago" datase
 - **Time Period:** The study focuses on evaluation periods 8 to 15.
 - **Data Limitations:** Lack of data on competition, listing visibility, and service/amenities provided by hosts.
 
-## Future Scope
-- **Expand Analysis:** Extend the study to other cities and time periods to identify common trends.
-- **Non-linear Models:** Explore non-linear models to improve result accuracy.
-- **Competitor Data:** Incorporate competitor data to analyze the effects of competition.
-
 
