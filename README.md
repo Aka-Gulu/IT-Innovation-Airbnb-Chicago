@@ -23,7 +23,7 @@ Our research targets the Chicago Airbnb market using the `"airbnb_Chicago"` data
 
 ## Methodology
 1. **Exploratory Data Analysis (EDA):**
-   - Conducted EDA to compare Superhosts and Non-Superhosts in terms of revenue and property policies.
+   - Conducted `EDA` to compare Superhosts and Non-Superhosts in terms of revenue and property policies.
    - Analyzed the impact of various property attributes on revenue.
 
 2. **Model Selection:**
