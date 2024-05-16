@@ -2,6 +2,7 @@
 
 ## Kaggle & PPT Slides
 **Presentation link**: [https://drive.google.com/file/d/170TFLGRsCNBma_Tcg4SLzSFYT-MpLZSu/view?usp=sharing](https://drive.google.com/file/d/170TFLGRsCNBma_Tcg4SLzSFYT-MpLZSu/view?usp=sharing) 
+
 **Slides Deck link**: [https://docs.google.com/presentation/d/1bCKObMGPldZ-S3ZrWV_S6e3esE_7Ftse/edit?usp=sharing&ouid=113313002084083777814&rtpof=true&sd=true](https://docs.google.com/presentation/d/1bCKObMGPldZ-S3ZrWV_S6e3esE_7Ftse/edit?usp=sharing&ouid=113313002084083777814&rtpof=true&sd=true) 
 
 ## Introduction
